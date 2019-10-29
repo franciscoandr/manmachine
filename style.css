@@ -1,5 +1,5 @@
 body{
-    font-family: 'IBM Plex Mono';
+    font-family: 'IBM Plex Mono' monospace;
     margin: 0;
 }
 
@@ -85,7 +85,7 @@ body{
 .close {
     color: #000000;
     float: right;
-    font-size: 28px;
+    font-size:30px;
     font-weight: bold;
 }
 
