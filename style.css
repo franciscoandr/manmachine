@@ -1,6 +1,7 @@
 body{
     font-family: 'IBM Plex Mono', monospace;
     margin: 0;
+    background-color: #FAFAFA;
 }
 
 #file1{
@@ -63,7 +64,7 @@ body{
 #titulo4{
     position:fixed;
     height: 100px;
-    top: 22%;
+    top: 20%;
     left: 60%;
     cursor: pointer;
 }
